@@ -1,0 +1,26 @@
+.bodyBackground
+{
+    background-image: url(papelParedeDog.jpg);
+}
+#batePapo
+{
+    font-size: 50px;
+    color: #7a746b;
+    background-color: #afa79b;
+    width: 50%;
+}
+#insiraNome
+{
+    color: #7a746b;
+}
+#nomeUsuario
+{
+    width: 3%;
+    height: 30px;
+    border-radius: 10px;
+}
+#loginButton
+{
+    background-color: #afa79b;
+
+}
